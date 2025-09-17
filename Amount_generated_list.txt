@@ -11,4 +11,7 @@ valuation - 14 million $
 stakeholders - 145
 stock_amt = 166
 
-
+Stock C:
+valuation - 122 million $
+stakeholders - 80
+stock_amt = 112
