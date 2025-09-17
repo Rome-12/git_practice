@@ -6,4 +6,6 @@ Entries regarding the Smart india hackathon
 4. Enola
 5. Kirkman
 6. Lorak
+7. Stan
+8. Marselli
 

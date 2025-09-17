@@ -2,13 +2,13 @@ Stocks Establishment firm
 
 
 Stock A:
-valuation - 132 million $
+valuation - 133 million $
 stakeholders - 12
 stock_amt = 142
 
 Stock B:
 valuation - 14 million $
-stakeholders - 144
-stock_amt = 156
+stakeholders - 145
+stock_amt = 166
 
 
