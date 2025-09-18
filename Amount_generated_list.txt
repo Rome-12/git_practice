@@ -13,5 +13,5 @@ stock_amt = 166
 
 Stock C:
 valuation - 122 million $
-stakeholders - 80
+stakeholders - 95
 stock_amt = 112
